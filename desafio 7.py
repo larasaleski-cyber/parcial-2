@@ -8,5 +8,5 @@ T = float(input("Digite o tempo (T) em meses ou anos: "))  # Tempo do investimen
 # Fórmula de juros simples: J = (C * I * T) / 100
 J = (C * I * T) / 100
 
-# Mostra o resultado bonitinho
+# Mostrar o resultado
 print(f"O valor dos juros simples é: {J:.2f}")
